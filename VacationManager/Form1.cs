@@ -11,6 +11,7 @@ namespace VacationManager
         {
             InitializeComponent();
         }
+        /// martin
         private void btnInsert_Click(object sender, EventArgs e)
         {
             try
